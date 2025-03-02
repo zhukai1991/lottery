@@ -5,7 +5,7 @@ If programm is helpful for you😎😎😎, it will be greatful to comment us wi
 
 [点击跳转至中文使用文档](https://github.com/moshang-xc/lottery/blob/master/README-ZH_CN.MD)
 
-> Try it now:  [https://moshang-xc.github.io/lottery/](https://moshang-xc.github.io/lottery/)
+> Try it now:  [https://moshang-ax.github.io/lottery/](https://moshang-ax.github.io/lottery/)
 
 ## Technology Stack
 
