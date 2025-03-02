@@ -25,7 +25,7 @@ Web Page: Three.js, References to the official 3D example of `Three.js`
 
 ## Preview
 
-> Try it now:  [https://moshang-xc.github.io/lottery/](https://moshang-xc.github.io/lottery/)
+> Try it now:  [https://moshang-ax.github.io/lottery/](https://moshang-ax.github.io/lottery/)
 
 ![lottery.gif](https://raw.githubusercontent.com/moshang-xc/blog/master/share/lottery.gif)
 
